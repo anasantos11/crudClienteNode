@@ -4,7 +4,7 @@ Para executar o projeto é necessário o Node e um servidor web rodando na porta
 
 **EXECUÇÃO**
 
-Execute o comando abaixo pelo cmd na pasta raiz diretório do projeto:
+Execute os dois comandos abaixo pelo cmd na pasta raiz diretório do projeto:
 
 Para instalar as dependências do projeto:
 
