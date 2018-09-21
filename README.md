@@ -1,6 +1,6 @@
 # crudClienteNode
 
-Para executar o projeto é necessário o Node e um servidor web rodando na porta 8080.
+Para executar o projeto é necessário que tenha o Node.js instalado e um servidor web rodando na porta 8080.
 
 **EXECUÇÃO**
 
@@ -15,7 +15,7 @@ Para executar o servidor App:
   - node servidor
 
 
-Agora é só executar um servidor web a partir da pasta src do projeto. 
+Agora é só executar um servidor web a partir da pasta src do projeto na porta 8080.
 Se preferir pode usar o pacote HTTP-SERVER. 
 Para instalar, execute o compando abaixo no diretório do projeto: 
 
